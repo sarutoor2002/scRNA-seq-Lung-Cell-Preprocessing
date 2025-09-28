@@ -1,7 +1,7 @@
 # Single Cell RNA Sequencing Preprocessing with Seurat (Biostats Squid Tutorial)
 
 ## Note:
-Coding and workflow outlined below are from Biostats Squid's "Standard scRNAseq pre-processing workflow with Seurat" tutorial (https://biostatsquid.com/scrnaseq-preprocessing-workflow-seurat/#step1).
+Coding and workflow are from Biostats Squid's "Standard scRNAseq pre-processing workflow with Seurat" tutorial (https://biostatsquid.com/scrnaseq-preprocessing-workflow-seurat/#step1).
 ## Goal: 
 Transform raw single cell RNA sequencing data into preprocessed data ready for downstream analysis. 
 
