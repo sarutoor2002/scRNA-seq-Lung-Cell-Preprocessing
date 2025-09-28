@@ -21,6 +21,7 @@ Identification of top ten most highly variable genes.
 
 Principal Component Analysis.
 
+
 Determining dimensionality with scree plot.
 ![](https://github.com/sarutoor2002/scRNA-seq-Lung-Cell-Preprocessing/blob/main/Scree%20Plot.png)
 
@@ -28,7 +29,7 @@ Clustering.
 ![](https://github.com/sarutoor2002/scRNA-seq-Lung-Cell-Preprocessing/blob/main/Clustering.png)
 
 UMAP.
-![]([https://github.com/sarutoor2002/scRNA-seq-Lung-Cell-Preprocessing/blob/main/UMAP.png)
+![](https://github.com/sarutoor2002/scRNA-seq-Lung-Cell-Preprocessing/blob/main/UMAP.png)
 
 ## Conclusion: 
 Lower cell counts were retained in the filtered dataset due to computational constraints. As a result, reduced cell counts likely contributed to lower levels of detectable variation, thereby imparing clustering ability and UMAP synthesis. To enhance data preprocessing, computers with a higher RAM should be considered.    
