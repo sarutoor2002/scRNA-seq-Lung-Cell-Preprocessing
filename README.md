@@ -20,7 +20,7 @@ Identification of top ten most highly variable genes.
 ![](https://github.com/sarutoor2002/scRNA-seq-Lung-Cell-Preprocessing/blob/main/Highly%20Variable%20Genes.png)
 
 Principal Component Analysis.
-
+![](https://github.com/sarutoor2002/scRNA-seq-Lung-Cell-Preprocessing/blob/main/PCA.png)
 
 Determining dimensionality with scree plot.
 ![](https://github.com/sarutoor2002/scRNA-seq-Lung-Cell-Preprocessing/blob/main/Scree%20Plot.png)
